@@ -1,6 +1,9 @@
 # Money-Manager
+
 ![image](https://user-images.githubusercontent.com/66768695/153604971-802ea30c-153f-4577-a0a3-358656e3e941.png)
+
 ![image](https://user-images.githubusercontent.com/66768695/153605034-bc3e9656-bd93-48bf-b90f-a5500fe6c49f.png)
+
 Add Category
 
 ![image](https://user-images.githubusercontent.com/66768695/153605175-0fbe97bc-f7ba-44eb-967c-5dcb6a647d92.png)
