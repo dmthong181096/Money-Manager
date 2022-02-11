@@ -1,5 +1,7 @@
 # Money-Manager
 
+Chưa hoàn thiện
+
 ![image](https://user-images.githubusercontent.com/66768695/153604971-802ea30c-153f-4577-a0a3-358656e3e941.png)
 
 ![image](https://user-images.githubusercontent.com/66768695/153605034-bc3e9656-bd93-48bf-b90f-a5500fe6c49f.png)
